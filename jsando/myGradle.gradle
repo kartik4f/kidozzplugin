@@ -1,0 +1,4 @@
+dependencies {
+    implementation group: 'org.greenrobot', name: 'eventbus', version: '3.0.0' 
+	implementation 'com.kidoz.sdk:KidozSDK:0.8.8.3@aar'
+}	
